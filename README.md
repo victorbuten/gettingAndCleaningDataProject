@@ -6,4 +6,4 @@ Files included:</br>
   **"step5.txt":**              Final dataset submitted</br>
   **"codebook.txt":**           Codebook explaining the processing of the features found in the dataset</br>
   **"features.txt":**           A full list of the features of the dataset</br> 
-
+  **"gettingAndCleaningDataProject.Rproj":** R project file
